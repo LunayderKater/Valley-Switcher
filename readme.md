@@ -1,4 +1,4 @@
-# valley Switcher
+# Valley Switcher
 ### Switching between Mods as profiles wasnt that easy since ever!
 
 ## Planned Features
