@@ -1,17 +1,18 @@
 # Valley Switcher
-### Switching between Mods as profiles wasnt that easy since ever!
+### Simplifying Mod Profile Switching Like Never Before!
 ![Valley Switcher](https://cdn.discordapp.com/attachments/1064134501049045002/1145440611365822566/screenshot.png)
 
-## Feutures
-+ Easy selection of profiles based user defined mods.
-+ Automaticly generates "All Mods" and "No Mods" profiles for a direct start!
+## Features
++ Create profiles that automatically load your selected mods.
++ Automatically generate "All Mods" and "No Mods" profiles for quick access.
 
 ## Planned Features
-+ Create Profile GUI:
-With a mods selector, when after pressing create it will transfer thoes into the profile folder and shows it in the gui.
-+ Edit Profile GUI
++ Profile Creation GUI:
+    - Select mods using a user-friendly interface, then create and save profiles effortlessly.
++ Profile Editing GUI:
+    - Modify existing profiles with ease, adjusting mod selections as needed.
 
 ## System Requirements
 + **.Net Framework 4.8:** [Download here](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer)
 
-More to come!
+Stay tuned for more exciting updates!
