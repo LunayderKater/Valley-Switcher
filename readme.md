@@ -1,6 +1,6 @@
 # Valley Switcher
 ### Simplifying Mod Profile Switching Like Never Before!
-![Valley Switcher](https://cdn.discordapp.com/attachments/1064134501049045002/1145440611365822566/screenshot.png)
+![Valley Switcher](https://cdn.discordapp.com/attachments/1145624657240789103/1147995295091794001/screenshot.png)
 
 ## Features
 + Create profiles that automatically load your selected mods.
